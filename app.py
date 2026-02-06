@@ -1,5 +1,6 @@
 import streamlit as st
 import pandas as pd
+import openpyxl
 import plotly.express as px
 
 st.set_page_config(
